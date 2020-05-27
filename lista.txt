@@ -1,0 +1,5 @@
+-vegyél tej
+-vegyél kenyér
+-vegyél cukor
+-vegyél alma
+-vegyél alma
